@@ -1,3 +1,5 @@
+> Built as the final project for Harvard's CS50P: Introduction to Programming with Python.
+
 # TEXESO
 __TEXESO__ is a terminal implementation of the famous memory game _Pexeso_, built using Textual and Python.
 
