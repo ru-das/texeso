@@ -124,6 +124,10 @@ The sidebar contains a fancy **SETUP** title, a `RowStepper`, a `ColumnStepper`,
 
 6. `HelpScreen`: A simple help screen that shows some information and instructions of the game using markdown text and Textual's in-built `MarkdownViewer` widget. It has only an **OKAY** button, clicking which dismisses the screen itself.
 
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
 <hr>
 
 > ### Made by Rupam Das
